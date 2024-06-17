@@ -24,10 +24,6 @@ It is a simple and resonsive Food Website Website, you can navigate through them
 
 - Download or clone the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - Run the index.html file
 - Navigate the website in different modes(desktop or mobile)
