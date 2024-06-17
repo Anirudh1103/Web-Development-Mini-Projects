@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background: linear-gradient(245.59deg,  #4d9559  0%, #38703d 28.3%);
+    font-family: 'Poppins',sans-serif;
+    font-size: large;
+}
+h1{
+    color: black;
+    font-style: italic;
+}

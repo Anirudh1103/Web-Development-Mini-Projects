@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anirudh's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- boxicon link -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- remix icons link -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- google font link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>        
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <a href="#CV" class="logo">Portfolio</a>
+        <ul class="navlist">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html" target="_blank">About</a></li>
+            <li><a href="social.html" target="_blank">Social</a></li>
+            <li><a href="skills.html" target="_blank">Skills</a></li>
+            <li><a href="contact.html" target="_blank">Contact</a></li>
+
+        </ul>
+
+        <div class="bx bx-menu" id="menu-icon"></div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h2>Hi,</h2>
+            <h4>Welcome to my Portfolio website,  I'm 
+            </h4>
+            <h1>ANIRUDH</h1>
+            <p>currently persuing B.tech at Sri Siddhartha Institute of Technology Tumkur,  specialization in</p>
+            <p><span class="abc">Computer Science & Engineering</span></p>
+        </div>
+        <div class="hero-img">
+            <img src="/Logos/my ppic-PhotoRoom.png-PhotoRoom.png" alt="Error loading the image" height="600vh">
+            
+        </div>
+    </section>
+    <div class="icons">
+        <a href="https://www.instagram.com/anirudh_c_m_05/" ><i class="ri-instagram-line"></i></a>
+        <a href="https://www.facebook.com/anirudh.c.m.562"><i class="ri-facebook-box-fill"></i></a>
+        <a href="https://www.linkedin.com/in/anirudh-c-m-01931624a/?original_referer="><i class="ri-linkedin-box-fill"></i></a>
+        <a href="https://github.com/Anirudh11062003"><i class="ri-github-fill"></i></a>
+        
+    </div>
+    <div class="scroll-down">
+        <a href="#"><i class="ri-arrow-down-s-fill"></i></a>
+    </div>
+
+    <!-- Scroll reveal effect  -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <!-- js link -->
+    <script src="script.js"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script>
+        function sendEmail(){
+                Email.send({
+            Host : "smtp.elasticemail.com",
+            Username : "username",
+            Password : "password",
+            To : 'them@website.com',
+            From : "you@isp.com",
+            Subject : "This is the subject",
+            Body : "And this is the body"
+        }).then(
+        message => alert(message)
+        );
+        }
+    </script>
+    <footer class="footer">
+        <p>Copyright ©  by Anirudh  </p>
+    </footer>
+</body>
+
+</html>
