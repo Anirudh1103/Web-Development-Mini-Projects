@@ -1,4 +1,4 @@
-<h1 id="conpound-interest-calculator">Compound Interest Calculato</h1>
+<h1 id="conpound-interest-calculator">Compound Interest Calculator</h1>
 
 <p>A mini project that aims to calculate the Compound Interest by just adding the values to the webpage. This Project does complex calculations within few seconds, making user's work easier.</p>
 <br>
@@ -14,9 +14,8 @@
 <br>
 
 <ul>
-  <li>Download or clone the repository</li>
+  <li>Download  the repository</li>
 <pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 </code></pre>
   
   <li>Go to the directory compound-interest-calculator</li>
