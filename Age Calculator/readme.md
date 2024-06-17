@@ -19,11 +19,9 @@ It is a simple Javascript project which calculates our age in years.
 
 ---
 
-- Download or clone the repository
+- Download the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+
 
 - Go to the directory
 - Run the index.html file
