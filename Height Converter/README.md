@@ -8,10 +8,6 @@ This is a Height Converter webpage, which would convert one form of height to ot
 
 ### Steps to use : 
 <li>Download or clone the repository</li>
-
-```terminal
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects 
-```
 <li>Go to Height Converter</li>
 <li>Run the index.html in your browser</li>
 <li>Enter Height and choose Options</li>
