@@ -26,10 +26,7 @@ It is a simple and resonsive Art Gallery Website where you can add multiple pict
 
 ---
 
-- Download or clone the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 ```
 
 - Go to the directory
