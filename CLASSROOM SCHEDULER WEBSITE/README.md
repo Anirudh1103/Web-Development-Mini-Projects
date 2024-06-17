@@ -16,10 +16,8 @@
 #### Steps to Use:
 ---
 
-- Download or clone the repository
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+- Download  the repository
+
 - Go to the directory
 - Run the index.html file
 - Schedule your new batch.
